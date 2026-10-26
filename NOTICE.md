@@ -43,6 +43,7 @@ have independent rights/restrictions. No code license supplies rights to them.
 The geometric placeholders are original engineering artwork, not original
 character assets.
 
-Parent publication review remains pending. LICENSE-REVIEW.md in the review
+This is an engineering demo, not an official product. Native Windows
+validation remains pending. LICENSE-REVIEW.md in the review
 package records matches, history and uncertainties; no definitive legal
 conclusion about every contributor or intended use is asserted.

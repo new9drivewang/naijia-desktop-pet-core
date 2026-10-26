@@ -4,7 +4,8 @@ A small Windows desktop-pet engine demonstration derived from the v7.6
 source snapshot. The visible shapes are original, code-generated engineering
 placeholders, not the original characters. This is a no-charge, noncommercial source-available demo under the retained
 PolyForm Noncommercial License 1.0.0; see LICENSE and NOTICE.md. It is not
-MIT-licensed or described as OSI open source. Parent publication review is pending.
+MIT-licensed or described as OSI open source. This is an engineering demo, not an
+official product; native Windows validation remains pending.
 
 It demonstrates transparent layered windows, asynchronous frame decoding,
 a bounded shared frame cache, dragging/throwing, body-zone input, procedural
