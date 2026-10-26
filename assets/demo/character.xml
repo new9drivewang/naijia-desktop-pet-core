@@ -1,0 +1,7 @@
+<character id="demo-shapes" name="Geometric placeholder (generated, not original character)" width="160" height="200" source="tools/generate_placeholders.py" license="PolyForm Noncommercial 1.0.0; original demo geometry only" action="几何占位动作" end="hold">
+  <idle path="idle.png"/>
+  <laugh directory="action" count="96" digits="3" fps="24"/>
+  <look directory="look" count="11" digits="2" fps="30"/>
+  <blinkLeft directory="blink" count="7" digits="2" fps="20"/>
+  <blinkRight directory="blink" count="7" digits="2" fps="20"/>
+</character>
