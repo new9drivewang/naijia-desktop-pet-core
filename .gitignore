@@ -1,0 +1,8 @@
+bin/
+obj/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.pdb
+performance-report-*.txt
